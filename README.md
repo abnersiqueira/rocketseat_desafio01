@@ -17,7 +17,7 @@ Desafio 01 pela Rocketseat, no qual foi proposto a correção do HTML e CSS da p
 - Maneiras de utilização das tags "strong" e "span"
 
 ### Você pode comparar as alterações do commit aqui
-https://github.com/abnersiqueira/desafio01_rocketseat/commit/e2aca48215f24eadba746fd37f6fb60afeeae87a
+https://github.com/abnersiqueira/rocketseat_desafio01/commit/af4d7558b4cb02fde9476c9cee29de6941960fef
 
 ## Versão antes
 
